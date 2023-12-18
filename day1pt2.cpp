@@ -28,8 +28,8 @@ int main() {
         {"seven", "s7n"},
         {"eight", "e8t"},
         {"nine", "n9e"}
-
     };
+    
     while (std::cin >> a) {
         std::string joined = "";
         bool is_first;
